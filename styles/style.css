@@ -20,18 +20,10 @@
 }
 
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
-.header__square-pic {
-  height: 568px;
-  width: 568px;
-}
+
 
 /* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
+
 
 .logo {
   width: 228px;
@@ -344,7 +336,7 @@
 .columns__column-list {
   list-style-type: none;
   padding: 0;
-  margin: 0 0 16px
+  margin: 0 0 16px;
 }
 .columns__column-links {
   line-height: 30px;
