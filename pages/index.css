@@ -1,6 +1,10 @@
+/* normalize */
+
+@import url(../vendor/normalize.css);
+
 /* rotation */
 
-@import url(../animation/rotation/rotation.css);
+@import url(../blocks/rotation/rotation.css);
 
 /* page */
 
